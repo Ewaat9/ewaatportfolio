@@ -49,7 +49,7 @@
 					<div class="intro">
 						<div class="profile-img"><img src="images/CEO.jpg" alt=""></div>
 						<h2><b>EWAAT JOSEPHAT</b></h2>
-						<h4 class="font-yellow">FRONT-END DEVELOPER</h4>
+						<h4 class="font-yellow">SOFTWARE ENGINEER</h4>
 						<ul class="information margin-tb-30">
 							<li><b>BORN : </b>FEBRUARY 28, 1993</li>
 							<li><b>EMAIL : </b>ewaatjosephat@gmail.com</li>
